@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/static/js/main.911daf13.js",
+    "static/js/787.bceb4971.chunk.js": "/static/js/787.bceb4971.chunk.js",
+    "static/media/workoutData.csv": "/static/media/workoutData.2cbb2ba3ff83bb969187.csv",
+    "static/media/pictures.txt": "/static/media/pictures.711e5cbf736fe78f3aaa.txt",
+    "static/js/mapbox-gl-csp-worker.9a90b9e4.worker.js": "/static/js/mapbox-gl-csp-worker.9a90b9e4.worker.js",
+    "static/media/metaData.csv": "/static/media/metaData.a990103c235b01f60f31.csv",
+    "index.html": "/index.html",
+    "main.911daf13.js.map": "/static/js/main.911daf13.js.map",
+    "787.bceb4971.chunk.js.map": "/static/js/787.bceb4971.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.911daf13.js"
+  ]
+}
