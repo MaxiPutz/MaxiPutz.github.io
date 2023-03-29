@@ -19,11 +19,11 @@ What happens if I click on a blue Workout-card/button?<br>
 What's the use of the CREATE-button in the header bar?<br>
 -> Select a frequent Workout segment (=part of the route) on the map.<br>
 Ok, but how can I select my segment of interest from point A to point B?<br>
--> 1. Click CREATE<br>
-   2. Drag&drop the pins on the map:<br>
-             green pin to the desired start point AND<br>
-             red pin to the end point (segment will appear green)<br>
-   4. Click the yellow LOAD button in the header bar to view the graphical comparison of multiple Workouts of one route:<br>
+-> &nbsp; &nbsp;1. Click CREATE<br>
+ &nbsp;&nbsp; &nbsp; &nbsp; 2. Drag&drop the pins on the map:<br>
+ &nbsp; &nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          green pin to the desired start point AND<br>
+ &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          red pin to the end point (segment will appear green)<br>
+ &nbsp; &nbsp;&nbsp; &nbsp; 3. Click the yellow LOAD button in the header bar to view the graphical comparison of multiple Workouts of one route:<br>
 ![Screenshot 2023-03-29 at 20 38 56](https://user-images.githubusercontent.com/48091139/228637416-43bb6465-c071-48af-be8f-f9895f89a904.jpg)
 
 -------------------
