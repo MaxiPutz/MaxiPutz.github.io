@@ -2,7 +2,7 @@
 
 ### Quick view into the App
 
-####What can I do with this App? <br>
+#### What can I do with this App? <br>
 -> Compare the performance data of routes which you frequently use for your Workout. F.ex., if you run the same route every day, you might want to know your performance over time. You can graphically compare and analyse these data with this app.
 
 -------------------<br>
@@ -19,11 +19,11 @@
 #### What's the use of the CREATE-button in the header bar?<br>
 -> Select a frequent Workout segment (=part of the route) on the map.<br>
 Ok, but how can I select my segment of interest from point A to point B?<br>
--> &nbsp; &nbsp;1. Click CREATE<br>
- &nbsp;&nbsp; &nbsp; &nbsp; 2. Drag&drop the pins on the map:<br>
- &nbsp; &nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          green pin to the desired start point AND<br>
- &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          red pin to the end point (segment will appear green)<br>
- &nbsp; &nbsp;&nbsp; &nbsp; 3. Click the yellow LOAD button in the header bar to view the graphical comparison of multiple Workouts of one route:<br>
+1. Click CREATE<br>
+2. Drag&drop the pins on the map:<br>
+2.1. green pin to the desired start point AND<br>
+2.2. red pin to the end point (segment will appear green)<br>
+3. Click the yellow LOAD button in the header bar to view the graphical comparison of multiple Workouts of one route:<br>
 ![Screenshot 2023-03-29 at 20 38 56](https://user-images.githubusercontent.com/48091139/228637416-43bb6465-c071-48af-be8f-f9895f89a904.jpg)
 
 -------------------
